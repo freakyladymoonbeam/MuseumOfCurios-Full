@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other items below this line
+IOT-1026 Capstone Project/
