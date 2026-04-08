@@ -1,0 +1,8 @@
+| Region                  | Culture / Inspirations                                  | Magic Type                                          | Geography / Environment                                                   |
+| ----------------------- | ------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Hub Kingdom**         | Broad European medieval (guilds, class systems)         | Light, harvest, protection                          | Rolling farmland, rivers, forests, central castle city                    |
+| **Sunscorched Plateau** | African-inspired (savannah & desert, plural influences) | Ancestry, memory, land-based                        | Savannas, rocky plateaus, oases, trade routes                             |
+| **Tall Palm Tropics**   | Polynesian + Indigenous South American-inspired         | Water, wind, navigation/environmental               | Archipelagos, coastal jungles, river systems, tree-integrated settlements |
+| **Frostpeak Highlands** | Inuit and Norse/Viking (distinct coexisting cultures)   | Spirit-guided (Inuit), rune-based (Norse)           | Snowfields, fjords, ice caves, northern lights                            |
+| **Seas and Sands**      | Arabic + South Asian-inspired                           | Scholarly (texts, astronomy), mystical (djinn-like) | Coastal trade cities, deserts, spice markets, caravan routes              |
+| **Jade Peaks**          | East Asian-inspired (plural influences)                 | Balance, energy flow, spiritual cultivation         | Mountain ranges, terraces, bamboo forests, misty valleys, monasteries     |
