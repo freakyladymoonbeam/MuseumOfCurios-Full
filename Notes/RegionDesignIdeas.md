@@ -18,7 +18,7 @@
 **Cultural Depth:**
 * Strong guild systems and class structures
 * Religion or spiritual practices tied to light, harvest, or protection
-* Food, clothing, and architecture vary subtly between towns (don’t make it one-note “generic medieval”)
+* Food, clothing, and architecture vary subtly between towns (don’t make it one-note "generic medieval")
 
 ---
 
