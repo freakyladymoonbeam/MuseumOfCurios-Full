@@ -24,20 +24,20 @@
 
 ## **2. Sunscorched Plateau**
 
-**Inspiration:** African savannah and desert cultures (avoid collapsing into a single influence—think plurality)
+**Inspiration:** African savannah and desert cultures (avoid collapsing into a single influence or pushing negative stereotypes about Africa)
 
 **Key Features:**
 * Expansive savannahs, baobab-like trees, rocky plateaus, oasis settlements
-* Trade routes carved through dangerous terrain
+* Trade routes carved through ecologically rich but punishing environments
 
 **Population:**
 * Primarily Black communities with varied identities (nomadic, settled, scholarly, pastoral)
 * Caravan networks connect distant settlements
 
 **Quests / Flavor:**
-* Caravan protection and navigation
-* Resolving conflicts over water access or migration routes
-* A storyteller whose tales are “coming true” in dangerous ways
+* Traveling with a caravan to learn how to survive in the rich but punishing landscape
+* Participating in a festival that celebrates the return of specific wind patterns that enable travel, pollination, and migration
+* A storyteller whose tales are “coming true” in unexpected—and sometimes dangerous—ways
 
 **Cultural Depth:**
 * Oral traditions are central—history is preserved through storytellers, not books
@@ -124,7 +124,7 @@
 
 ## **6. Jade Peaks**
 
-**Inspiration:** East Asian cultures (again, plurality—not just one country analogue)
+**Inspiration:** East Asian cultures (again, not just one country analogue)
 
 **Key Features:**
 * Mountain ranges, terraced fields, bamboo forests, misty valleys
