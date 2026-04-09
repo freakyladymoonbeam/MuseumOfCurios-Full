@@ -2,7 +2,7 @@
 
 ---
 
-## 1. The Burnt-Out Historian
+## The Burnt-Out Historian
 - **Age Range:** 40s–50s
 - **Concept:** A once-renowned scholar who no longer believes history matters—too many truths lost, rewritten, or ignored
 - **Arc:** Rediscovers meaning through the player’s work preserving curios
@@ -11,16 +11,16 @@
 
 ---
 
-## 2. The Traveling Performer
+## The Traveling Performer (KEEPING)
 - **Age Range:** 20s–30s
 - **Concept:** A charismatic storyteller/actor who adapts local legends into performances
 - **Arc:** Struggles with authenticity vs. embellishment (are they honoring stories or distorting them?)
 - **Core Conflict:** Identity tied to performance; doesn’t know who they are offstage
-- **Romance Angle:** Player sees the “real person” behind the persona
+- **Romance Angle:** Player sees the "real person" behind the persona
 
 ---
 
-## 3. The Reluctant Heir
+## The Reluctant Heir
 - **Age Range:** Late teens–early 20s
 - **Concept:** Inheritor of a powerful family legacy (political, magical, or mercantile) who wants none of it
 - **Arc:** Decides whether to reject, reshape, or accept their inheritance
@@ -29,7 +29,7 @@
 
 ---
 
-## 4. The Veteran Guard
+## The Veteran Guard
 - **Age Range:** 50s–60s
 - **Concept:** A long-serving protector who’s outlived their purpose as the world changes
 - **Arc:** Learns how to exist without constant vigilance or duty
@@ -38,7 +38,7 @@
 
 ---
 
-## 5. The Reclusive Artisan
+## The Reclusive Artisan
 - **Age Range:** 30s–40s
 - **Concept:** A master craftsperson who refuses to share their techniques or work publicly
 - **Arc:** Opens up—either to pass on knowledge or to create something meaningful again
@@ -47,16 +47,7 @@
 
 ---
 
-## 6. The Optimistic Courier (KEEPING)
-- **Age Range:** 20s
-- **Concept:** A messenger who travels constantly, carrying stories and objects between regions
-- **Arc:** Learns that constant motion is a form of avoidance
-- **Core Conflict:** Never stays long enough to form deep connections
-- **Romance Angle:** Choosing to stay—for the first time
-
----
-
-## 7. The Disgraced Noble (KEEPING)
+## The Disgraced Noble (KEEPING)
 - **Age Range:** 30s–50s
 - **Concept:** Formerly powerful figure now living in quiet obscurity after scandal or failure
 - **Arc:** Rebuilds identity outside of status and reputation
@@ -65,7 +56,7 @@
 
 ---
 
-## 8. The Amateur Collector
+## The Amateur Collector
 - **Age Range:** Any
 - **Concept:** Someone obsessed with collecting small, seemingly insignificant objects
 - **Arc:** Learns that meaning isn’t just in accumulation, but in understanding
@@ -74,7 +65,7 @@
 
 ---
 
-## 9. The Shrine Caretaker
+## The Shrine Caretaker
 - **Age Range:** 30s–60s
 - **Concept:** Maintains a quiet, sacred place tied to local beliefs or spirits
 - **Arc:** Confronts fading faith—either their own or the community’s
@@ -83,7 +74,7 @@
 
 ---
 
-## 10. The Ambitious Inventor
+## The Ambitious Inventor
 - **Age Range:** 20s–30s
 - **Concept:** Constantly creating, always chasing the “next breakthrough”
 - **Arc:** Learns to value completion and impact over endless iteration
@@ -92,7 +83,7 @@
 
 ---
 
-## 11. The Innkeeper Who Knows Too Much
+## The Innkeeper Who Knows Too Much
 - **Age Range:** 40s–60s
 - **Concept:** Runs a central social hub; quietly gathers stories, secrets, and rumors
 - **Arc:** Decides whether to remain an observer or become part of the story
@@ -101,7 +92,7 @@
 
 ---
 
-## 12. The Former Adventurer
+## The Former Adventurer
 - **Age Range:** 30s–50s
 - **Concept:** Retired explorer with stories that may or may not be exaggerated
 - **Arc:** Faces the reality of aging and the end of that lifestyle
@@ -110,7 +101,7 @@
 
 ---
 
-## 13. The Devoted Caretaker
+## The Devoted Caretaker
 - **Age Range:** 20s–40s  
 - **Concept:** Life revolves around caring for someone (ill, magical affliction, otherwise dependent, etc.)  
 - **Arc:** Learns to balance care for others with care for self
@@ -119,7 +110,7 @@
 
 ---
 
-## 14. The Archivist of “Unimportant” Things
+## The Archivist of "Unimportant" Things
 - **Age Range:** 30s–50s
 - **Concept:** Catalogues everyday objects others dismiss
 - **Arc:** Proves that small things hold immense meaning
@@ -128,7 +119,7 @@
 
 ---
 
-## 15. The Rival Curator
+## The Rival Curator
 - **Age Range:** Any
 - **Concept:** Runs or aspires to run a competing collection or museum
 - **Arc:** Moves from rivalry to mutual respect (or collaboration)
