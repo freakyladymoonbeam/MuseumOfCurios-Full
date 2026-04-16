@@ -1,8 +1,8 @@
 namespace MuseumOfCurios.Curios.Mythical
 {
-    public class /* INSERT HERE */ : Curio
+    public class TestMythical : Curio
     {
-        public /* INSERT HERE */() : base("", "", RarityLevel.Mythical, Origin./* INSERT HERE */)
+        public TestMythical() : base("Test Mythical", "So the thing will work.", RarityLevel.Mythical, Origin.RollingGrasslands)
         {
         }
     }
